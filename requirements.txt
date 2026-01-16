@@ -1,0 +1,4 @@
+aiogram==3.24.0
+aiohttp==3.13.3
+asyncpg==0.31.0
+flyerapi==1.2.3
